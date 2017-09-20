@@ -1,0 +1,16 @@
+$r:red;
+$b:blue;
+$g:green;
+
+
+body{
+    color:$r;
+    background-color:$b;
+    h1{
+
+        color:$r;
+    }
+    h2{
+        color:$g;
+    }
+}

@@ -10,5 +10,5 @@ npm install node-sass
 scripts:
     scss:node-sass --watch scss -o css
 
-will look in scss directory and put it in css directory:
+will look in scss directory and put it in css directory: (YOU HAVE TO MAKE BOTH BEFORE THIS SCRIPT WILL RUN (files too))
 npm run scss
