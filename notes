@@ -1,1 +1,14 @@
 https://webdesign.tutsplus.com/tutorials/watch-and-compile-sass-in-five-quick-steps--cms-28275
+
+
+STEPS:
+
+npm init
+
+npm install node-sass
+
+scripts:
+    scss:node-sass --watch scss -o css
+
+will look in scss directory and put it in css directory:
+npm run scss
